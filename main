@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>about bmo</title>
+<link type="text/css" rel="stylesheet"
+href="css/my first stylesheet.css"/> 
+</head>
+<body>
+<h1>about bmo</h1>
+<p>this was bmo.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5nQ2cq0DNCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>his name was bmo. he was a nice kitten i nicknamed him pico. unfortunately he passed away on march 25 thursday 2021. this is officially marked as bmo day.</p>
+</body>
+</html>
